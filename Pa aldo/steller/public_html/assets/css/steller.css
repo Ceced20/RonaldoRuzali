@@ -527,7 +527,18 @@ mark,
   max-width: 100%;
   height: auto;
 }
-
+.img-thumbnail1 {
+  padding: 0.25rem;
+  background-color: #282828;
+  border: 2px solid #D9D9D9;
+  border-radius: 6px;
+  -moz-border-radius:20px;
+  -webkit-border-radius:20px; 
+  border-spacing: 0;
+  border-collapse: separate;
+  max-width: 100%;
+  height: auto;
+}
 .figure {
   display: inline-block;
 }
